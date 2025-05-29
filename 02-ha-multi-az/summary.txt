@@ -1,1 +1,1 @@
-
+# HA architecture with ELB + multi-AZ EC2
